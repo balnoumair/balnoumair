@@ -9,8 +9,7 @@ Building backend and full-stack systems at product-led companies. Exploring bloc
 ### About
 
 - 6+ years of experience across distributed systems, API design, and domain-driven architecture
-- Currently at **UserTesting**, leading technical initiatives across the contributor network team
-- Side interest: programmable money and the future of financial infrastructure
+- Side interest: blockchain technologies and the future of financial infrastructure
 
 ---
 
