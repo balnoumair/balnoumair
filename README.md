@@ -27,6 +27,7 @@ Building backend and full-stack systems at product-led companies. Exploring bloc
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnoumair&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -46,5 +47,3 @@ These are self-directed learning projects — not professional work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-al-noumair-683a15b8/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bryan.al.noumair@gmail.com)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnoumair&layout=compact&hide_border=true" alt="Top Languages" />
