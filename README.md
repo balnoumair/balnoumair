@@ -42,13 +42,9 @@ These are self-directed learning projects — not professional work.
 
 ---
 
-### Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnoumair&layout=compact&hide_border=true" alt="Top Languages" />
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-al-noumair-683a15b8/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bryan.al.noumair@gmail.com)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balnoumair&layout=compact&hide_border=true" alt="Top Languages" />
