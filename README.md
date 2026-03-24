@@ -37,8 +37,8 @@ These are self-directed learning projects — not professional work.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [web3Bank](https://github.com/balnoumair/web-3-bank) | Chain-abstracted banking — traditional UX, on-chain infrastructure | SolidJS, Rust, Solidity, Chainlink CCIP |
-| [CRE Route Orchestrator](https://github.com/balnoumair/cre-route-orchestrator) | Multi-chain routing pipeline scoring 5 EVM testnets with DON consensus | Chainlink CRE SDK, SolidStart |
+| [web3Bank](https://github.com/balnoumair/web-3-bank) | Chain-abstracted banking — traditional UX, on-chain infrastructure | ![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=flat&logo=solid&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white) |
+| [CRE Route Orchestrator](https://github.com/balnoumair/cre-route-orchestrator) | Multi-chain routing pipeline scoring 5 EVM testnets with DON consensus | ![Chainlink](https://img.shields.io/badge/Chainlink_CRE-375BD2?style=flat&logo=chainlink&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidStart-2C4F7C?style=flat&logo=solid&logoColor=white) |
 
 ---
 
@@ -51,3 +51,4 @@ These are self-directed learning projects — not professional work.
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-al-noumair-683a15b8/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bryan.al.noumair@gmail.com)
